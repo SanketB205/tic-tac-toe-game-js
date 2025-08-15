@@ -7,3 +7,5 @@ Play against a friend and enjoy the classic 3x3 game in your browser! ✨
 - 👫 Two-player mode (Player X vs Player O)
 - 🔄 Reset and Newgame button to play again or new start of game
 - 🎨 Stylish and responsive design
+## 📷 Preview
+    ![Preview](tic_tac_toe_img.jpg)
