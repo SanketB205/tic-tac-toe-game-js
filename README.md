@@ -8,4 +8,4 @@ Play against a friend and enjoy the classic 3x3 game in your browser! ✨
 - 🔄 Reset and Newgame button to play again or new start of game
 - 🎨 Stylish and responsive design
 ## 📷 Preview
-    ![Preview](tic_tac_toe_img.jpg)
+![Preview](https://github.com/SanketB205/tic-tac-toe-game-js/blob/main/tic_tac_toe_img.jpg?raw=true)
